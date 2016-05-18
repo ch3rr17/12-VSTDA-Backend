@@ -1,0 +1,33 @@
+{
+  "name": "Very Simple ToDo App",
+  "main": "index.html",
+  "homepage": "https://github.com/ch3rr17/02-AstroWeightCalculator",
+  "authors": [
+    "ch3rr17 <cherr.batac@gmail.com>"
+  ],
+  "description": "todo list with angularjs",
+  "keywords": [
+    "install",
+    "bower",
+    "for",
+    "to",
+    "do",
+    "app",
+    "list"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.5",
+    "angular-xeditable": "^0.1.12"
+  }
+}
